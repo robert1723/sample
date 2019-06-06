@@ -1,27 +1,11 @@
-  {
-    "tags": [
-      "adipisicing",
-      "est",
-      "aute",
-      "enim",
-      "proident",
-      "incididunt",
-      "duis"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Lakeisha Henry"
-      },
-      {
-        "id": 1,
-        "name": "Herring Macdonald"
-      },
-      {
-        "id": 2,
-        "name": "Marsha Haney"
-      }
-    ],
-    "greeting": "Hello, Stella Klein! You have 4 unread messages.",
-    "favoriteFruit": "banana"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
